@@ -1,0 +1,6 @@
+{
+  "db_uri": "root:123456@(127.0.0.1:3306)/?parseTime=true&loc=Local",
+  "db_type": "mysql",
+  "address": "127.0.0.0:1323",
+  "grpc_client_addr": ""
+}
